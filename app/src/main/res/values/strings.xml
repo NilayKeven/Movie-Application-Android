@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Store</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_original_title">Movie Original Title</string>
+    <string name="movie_release_date">Release Date</string>
+    <string name="movie_average_vote">Vote Average</string>
+    <string name="movie_overview">Overview</string>
+    <string name="chronological_order">Chronological Order</string>
+</resources>
